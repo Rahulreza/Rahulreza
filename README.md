@@ -10,7 +10,7 @@ Skills: 🎯 C/C++ 🎯 Java/ Javascript/ Java Swing 🎯 HTML/CSS/PHP/MySql �
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Rahulreza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rahul-reza//)   -->
 
-<img align="top" alt="Coding"  src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/322600820_879792503165456_1996482850882933451_n.png?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEPq7yoSG96AJ6M8y2QAtHUBJjmDOtO3oUEmOYM607ehS0YHoLLXt6h7_Q6SCJrJUOc3W_z3oJnvbsTArFhgMED&_nc_ohc=7fFq1cCE72cAX_W3fYy&_nc_ht=scontent.fdac138-1.fna&oh=00_AfCAR-bXnovx7_DOaOEIykI9V75miumwNbnVWlvi5PCLIQ&oe=64042B7A">
+<img align="top" alt="Coding"  src="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/322600820_879792503165456_1996482850882933451_n.png?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEPq7yoSG96AJ6M8y2QAtHUBJjmDOtO3oUEmOYM607ehS0YHoLLXt6h7_Q6SCJrJUOc3W_z3oJnvbsTArFhgMED&_nc_ohc=08qjt5SEAIMAX8-gUqo&_nc_ht=scontent.fcgp17-1.fna&oh=00_AfBUZdovP9zzhI7BQI-Q3QSlETofK1gS6eABUgIX2cMOGQ&oe=641BE67A">
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
