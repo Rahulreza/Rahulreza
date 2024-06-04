@@ -35,8 +35,10 @@ Skills: 🎯 C/C++ 🎯 Java/ Javascript/ Java Swing 🎯 HTML/CSS/PHP/MySql �
 ## → Languages/Tools
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<!--
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+-->
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -59,10 +61,12 @@ Skills: 🎯 C/C++ 🎯 Java/ Javascript/ Java Swing 🎯 HTML/CSS/PHP/MySql �
 
 
 ## → I am interested in working with
+<!--
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+-->
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <!--
 <p><a href="https://wakatime.com/@rahulreza"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rahulreza&theme=light&layout=compact&langs_count=10&hide=html,groovy" alt="rahulreza" /></a></p>
