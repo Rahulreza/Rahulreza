@@ -19,7 +19,7 @@ Skills: 🎯 C/C++ 🎯 Java/ Javascript/ Java Swing 🎯 HTML/CSS/PHP/MySql �
 
 <h1 align="center">Hi 👋, I'm Md. Rahul Reza</h1>
 <h3 align="center">A passionate Flutter App Developer</h3>
-<h4 align = "justify"> A highly skilled software developer with expertise in Android and iOS development using native SDKs, as well as cross-platform frameworks such as Flutter. Experienced in creating robust and easily maintainable solutions, with a deep understanding of various programming paradigms, design patterns, and architectural principles. Specializes in fine-tuning performance to enhance application efficiency and user satisfaction. Has collaborated with diverse clients on numerous successful projects, including some of the most popular Islamic apps in Bangladesh. Has a deep passion for coding, solving complex problems, and continuous learning.</h4>
+<p align = "justify"> An intermediate software developer with expertise in Android and iOS development using native SDKs, as well as cross-platform frameworks such as Flutter. Experienced in creating robust and easily maintainable solutions, with a solid understanding of various programming paradigms, design patterns, and architectural principles. Specializes in fine-tuning performance to enhance application efficiency and user satisfaction. Has collaborated with diverse clients on numerous successful projects, including some of the most popular Islamic apps in Bangladesh. Passionate about coding, solving complex problems, and continuous learning.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulreza&label=Profile%20views&color=0e75b6&style=flat" alt="rahulreza" /> </p>
 
