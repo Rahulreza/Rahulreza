@@ -12,8 +12,7 @@ Skills: 🎯 C/C++ 🎯 Java/ Javascript/ Java Swing 🎯 HTML/CSS/PHP/MySql �
 
 <!--
 <img align="top" alt="Coding"  src="https://scontent.fspd3-1.fna.fbcdn.net/v/t39.30808-6/337868943_765108145231828_1230565396232606782_n.png?stp=dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeEgwePimgEr96hbrTJVS6ahHLblyzOix3ActuXLM6LHcLMWXaEAg-K0PF2MY0hwM5pmqmJVn5HbbH6tZV0AaAls&_nc_ohc=BdTwFZiEy-UAX9dlW14&_nc_ht=scontent.fspd3-1.fna&oh=00_AfCk7GohWiRsIVNOxUppkMk_PfBODww6Z0Hj6ZVcWQChhw&oe=646236E0"> -->
-
-![image](https://github.com/Rahulreza/Rahulreza/assets/48874418/94f2ad29-5853-4ee7-9d95-8115892d510f)
+![cover photo](https://github.com/Rahulreza/Rahulreza/assets/48874418/bb192198-d66d-4e0e-b502-869a081f38bc)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
@@ -44,6 +43,20 @@ Skills: 🎯 C/C++ 🎯 Java/ Javascript/ Java Swing 🎯 HTML/CSS/PHP/MySql �
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Php](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Adobe PhotoShop](https://img.shields.io/badge/Adobe%20PhotoShop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-31A8FF?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![My SQL](https://img.shields.io/badge/My%20Sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-4479A1?style=for-the-badge&logo=canva&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+
 
 ## → I am interested in working with
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
