@@ -42,8 +42,8 @@ Skills: 🎯 C/C++ 🎯 Java/ Javascript/ Java Swing 🎯 HTML/CSS/PHP/MySql �
 <a href="https://www.instagram.com/rahulrezaraz/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/93f85189-af52-49d8-8110-1f9033980460" alt="https://www.instagram.com/rahulrezaraz/" height="30" width="40" /></a>
 <a href="https://x.com/rahulrezaraz" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3eac01ad-9615-494c-9060-4905a36d3239" alt="https://x.com/rahulrezaraz" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rahulsdiarypage/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/23089866-735b-4141-896e-598cbd20188c" alt="https://www.facebook.com/rahulsdiarypage/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/groups/rahulsdiary" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6e97096e-81bf-47cb-bc00-e25c83beee92" alt="https://www.youtube.com/@rahuls_diary" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rahulsdiarypage/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/fd4991eb-14f7-4e5a-81d6-5935c0d18b61" alt="https://www.youtube.com/@rahuls_diary" height="30" width="40" /></a>
+<a href="https://www.facebook.com/groups/rahulsdiary" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6e97096e-81bf-47cb-bc00-e25c83beee92" alt="https://www.facebook.com/groups/rahulsdiary" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rahuls_diary" target="blank"><img align="center" src="https://github.com/user-attachments/assets/fd4991eb-14f7-4e5a-81d6-5935c0d18b61" alt="https://www.youtube.com/@rahuls_diary" height="30" width="40" /></a>
 <a href="https://rahulreza.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/90fab25f-5f90-4186-8ec3-d5ba1eec5c70" alt="https://rahulreza.com/" height="30" width="40" /></a>
 </p>
 
