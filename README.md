@@ -16,8 +16,18 @@ Skills: 🎯 C/C++ 🎯 Java/ Javascript/ Java Swing 🎯 HTML/CSS/PHP/MySql �
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Rahul+Reza!;" />
+</h1>
+<div align="center">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+</div>
+<h3 align="center">A Passionate Software Engineer</h3>
+
+<br/>
+<!--
 <h1 align="center">Hi 👋, I'm Md. Rahul Reza</h1>
-<h3 align="center">A passionate Flutter App Developer</h3>
+<h3 align="center">A passionate Flutter App Developer</h3>-->
 <p align = "justify"> An intermediate software developer with expertise in Android and iOS development using native SDKs, as well as cross-platform frameworks such as Flutter. Experienced in creating robust and easily maintainable solutions, with a solid understanding of various programming paradigms, design patterns, and architectural principles. Specializes in fine-tuning performance to enhance application efficiency and user satisfaction. Has collaborated with diverse clients on numerous successful projects, including some of the most popular Islamic apps in Bangladesh. Passionate about coding, solving complex problems, and continuous learning.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulreza&label=Profile%20views&color=0e75b6&style=flat" alt="rahulreza" /> </p>
@@ -78,5 +88,11 @@ Skills: 🎯 C/C++ 🎯 Java/ Javascript/ Java Swing 🎯 HTML/CSS/PHP/MySql �
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulreza&" alt="rahulreza" /></p>
 
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
