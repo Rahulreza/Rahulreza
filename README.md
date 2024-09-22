@@ -37,6 +37,14 @@ Skills: 🎯 C/C++ 🎯 Java/ Javascript/ Java Swing 🎯 HTML/CSS/PHP/MySql �
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-reza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-reza/" height="30" width="40" /></a>
+<a href="https://rahulreza.blogspot.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c55d70be-a685-4775-92a4-1da3395af9f7" alt="https://rahulreza.blogspot.com/" height="30" width="40" /></a>
+<a href="https://www.threads.net/@rahulrezaraz" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8eb20c15-9eed-45c8-b9b7-47aad0903f2a" alt="https://www.threads.net/@rahulrezaraz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rahulrezaraz/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/93f85189-af52-49d8-8110-1f9033980460" alt="https://www.instagram.com/rahulrezaraz/" height="30" width="40" /></a>
+<a href="https://x.com/rahulrezaraz" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3eac01ad-9615-494c-9060-4905a36d3239" alt="https://x.com/rahulrezaraz" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rahulsdiarypage/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/23089866-735b-4141-896e-598cbd20188c" alt="https://www.facebook.com/rahulsdiarypage/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/groups/rahulsdiary" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6e97096e-81bf-47cb-bc00-e25c83beee92" alt="https://www.youtube.com/@rahuls_diary" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rahulsdiarypage/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/fd4991eb-14f7-4e5a-81d6-5935c0d18b61" alt="https://www.youtube.com/@rahuls_diary" height="30" width="40" /></a>
+<a href="https://rahulreza.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/90fab25f-5f90-4186-8ec3-d5ba1eec5c70" alt="https://rahulreza.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
