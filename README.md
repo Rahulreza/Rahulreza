@@ -13,12 +13,14 @@ Skills: 🎯 C/C++ 🎯 Java/ Javascript/ Java Swing 🎯 HTML/CSS/PHP/MySql �
 <!--
 <img align="top" alt="Coding"  src="https://scontent.fspd3-1.fna.fbcdn.net/v/t39.30808-6/337868943_765108145231828_1230565396232606782_n.png?stp=dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeEgwePimgEr96hbrTJVS6ahHLblyzOix3ActuXLM6LHcLMWXaEAg-K0PF2MY0hwM5pmqmJVn5HbbH6tZV0AaAls&_nc_ohc=BdTwFZiEy-UAX9dlW14&_nc_ht=scontent.fspd3-1.fna&oh=00_AfCk7GohWiRsIVNOxUppkMk_PfBODww6Z0Hj6ZVcWQChhw&oe=646236E0"> -->
 ![cover photo](https://github.com/Rahulreza/Rahulreza/assets/48874418/bb192198-d66d-4e0e-b502-869a081f38bc)
+<h2 align="center">Assalamualaikum Warahmatullahi Wabarakatuh 👋, </h2>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Rahul+Reza!;" />
 </h1>
+<img align="right" alt="Coding" width="400" src="https://cybetiq.com/wp-content/themes/CybetiqTheme/img/Mobile-Application.gif">
 <div align="center">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 </div>
